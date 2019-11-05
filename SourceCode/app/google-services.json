@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176870340360",
+    "firebase_url": "https://wayfindergrp13.firebaseio.com",
+    "project_id": "wayfindergrp13",
+    "storage_bucket": "wayfindergrp13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176870340360:android:b79709ab2887c692585ebd",
+        "android_client_info": {
+          "package_name": "com.group13.dynamicwayfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176870340360-d9nd5b6t93tf0jpcmotcroei9hdeo97t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group13.dynamicwayfinder",
+            "certificate_hash": "bc7a1c6f9443224d45dbd147f2e2734cd211f426"
+          }
+        },
+        {
+          "client_id": "176870340360-2uqeha7vngh1p2u0fgon8a5s97dp4fus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMxJFT6yAJYRkTpOmud5GBIHt7yxHNETA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176870340360-2uqeha7vngh1p2u0fgon8a5s97dp4fus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
